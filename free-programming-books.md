@@ -322,8 +322,8 @@
 
 #### Cellular Automata
 
-* [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 * [Cellular Automata Books](http://uncomp.uwe.ac.uk/genaro/Cellular_Automata_Repository/Books.html)
+* [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 
 
 #### Cloud Computing
